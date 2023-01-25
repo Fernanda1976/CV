@@ -1,0 +1,13 @@
+#informacion{
+    width: 25%;
+    height: 600px;
+    float: left;
+    background-color: rgb(12, 12, 102);
+}
+
+#experiencia{
+    width: 75%;
+    height: 600px;
+    float:right;
+    background-color: red;
+    }

@@ -1,0 +1,27 @@
+{outline: 1px solid red;}
+
+
+
+header, section{
+    width: 960px;
+    margin: 0 auto;
+}
+#nombre{
+    display: flex;
+    float: center;
+    background-color: grey;
+    padding-top: 15px;
+    padding-left: 15px;
+    color:aliceblue
+}
+
+
+#informacion{
+    width: 60%;}
+    
+#experiencia{
+    float: right;
+    margin-top: 10px;}
+
+
+

@@ -1,0 +1,17 @@
+p{
+    color:red
+    widht: 300px;
+}
+
+*{
+    color: blue;
+}
+# mi_párrafo{
+    color:chartreuse;
+    font-size: 23px;
+    border:1px solid orange;
+
+}
+h1{
+    'Sofia Sans', sans-serif;
+}
